@@ -122,8 +122,6 @@
         height: 5rem;
         width: 20rem;
     }
-
-
     .error-message {
         color: #d33c40;
     }
